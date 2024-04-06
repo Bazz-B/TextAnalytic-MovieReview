@@ -18,6 +18,6 @@ Theres a several key insign emerged:
 
 # Data Analysis
 
-*Histogram: Displays the most frequent numerical values found in movie reviews.
-*Wordcloud: Illustrates the frequency of words in the reviews, visually emphasizing the most common ones.
-*Dendrogram: Reveals word relationships by visualizing clustering outcomes, aiding in identifying patterns within the data.
+- Histogram: Displays the most frequent numerical values found in movie reviews.
+- Wordcloud: Illustrates the frequency of words in the reviews, visually emphasizing the most common ones.
+- Dendrogram: Reveals word relationships by visualizing clustering outcomes, aiding in identifying patterns within the data.
